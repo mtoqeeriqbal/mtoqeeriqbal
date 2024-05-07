@@ -1,11 +1,7 @@
 ### Software Engineer | Full-Stack Developer | Critical Thinker | Observer
 
-- 🔭 I’m currently working on Full Stack Development
+- 🔭 I’m currently working on Webflow Developer (Senior Software Engineer I)
 - 🌱 I’m currently learning new JS frameworks and libraries
-- 👯 I’m looking to collaborate on opensource and github
-- 🤔 I’m looking for contribution with Blockchain and Web 3.0
-  - 💬 Ask me about Fullstack development
-- ⚡ Fun fact: Apart from programming I am fitness geek.
 
 
 #### Languages
