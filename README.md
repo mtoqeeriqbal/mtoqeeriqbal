@@ -5,10 +5,10 @@
 
 
 #### Languages
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
 ![](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
+![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
 ![](https://img.shields.io/badge/-Webflow-blue?logo=webflow&logoColor=white&style=flat)
 
 <hr/>
