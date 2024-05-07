@@ -1,4 +1,4 @@
-### Software Engineer | Full-Stack Developer | Critical Thinker | Observer
+### Senior Software Engineer | Critical Thinker
 
 - 🔭 I’m currently working on Webflow Developer (Senior Software Engineer I)
 - 🌱 I’m currently learning new JS frameworks and libraries
