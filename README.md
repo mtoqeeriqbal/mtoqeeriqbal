@@ -26,7 +26,7 @@
 <hr/>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/mtoqeeriqbal/toqeeriqbal">
+<a href="https://github.com/mtoqeeriqbal/mtoqeeriqbal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtoqeeriqbal&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe" alt="Toqeer's GitHub Stats" />
 </a>
 
