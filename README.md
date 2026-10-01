@@ -60,24 +60,18 @@ System Design          ████████████░░░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mtoqeeriqbal&bg_color=ffffff&color=334155&line=2563eb&point=06b6d4&area=true&hide_border=true" alt="Toqeer's GitHub activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtoqeeriqbal&theme=github" alt="Toqeer's GitHub contribution graph" />
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
-</div>
+> The contribution graph above is generated from the GitHub profile for `mtoqeeriqbal`. If contributions are still missing, check that commits use an email address connected to your GitHub account and that private contributions are enabled in your profile settings.
 
 ## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/mtoqeeriqbal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:contact@mtoqeeriqbal.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:toqeer.94@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Toqeer" /></a>
 
 </div>
 
