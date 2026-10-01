@@ -1,8 +1,18 @@
-# Hi, I'm Toqeer 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Toqeer%20Iqbal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JavaScript%20%7C%20Frontend%20Engineering%20%7C%20System%20Design&descAlignY=60&descSize=18" alt="Toqeer Iqbal profile banner" />
+</div>
 
-### JavaScript Developer | Frontend Engineer | System Design Learner
+<div align="center">
 
-I’m a frontend-focused software engineer who enjoys building fast, accessible, and intuitive web experiences with JavaScript. I like turning complex problems into simple, maintainable interfaces—and I’m currently expanding my perspective by learning how scalable systems are designed.
+<a href="https://github.com/mtoqeeriqbal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+thoughtful+frontend+experiences;Writing+clean+and+maintainable+JavaScript;Learning+how+systems+scale;Turning+ideas+into+polished+products" alt="Typing animation" />
+</a>
+
+</div>
+
+## 👋 About Me
+
+I’m a frontend-focused software engineer who enjoys building fast, accessible, and intuitive web experiences with JavaScript. I like turning complex problems into simple, maintainable interfaces—and I’m expanding my perspective by learning how reliable and scalable systems are designed.
 
 - 🔭 Working as a Webflow Developer / Senior Software Engineer
 - 💻 Focused on JavaScript, frontend engineering, and modern web development
@@ -10,39 +20,22 @@ I’m a frontend-focused software engineer who enjoys building fast, accessible,
 - 🧠 Interested in performance, accessibility, clean code, and great developer experience
 - 🤝 Open to collaboration, knowledge sharing, and interesting product ideas
 
-## What I’m Focused On
+## 🚀 What I’m Focused On
 
-### JavaScript & Frontend Engineering
+| JavaScript & Frontend Engineering | System Design |
+| --- | --- |
+| Responsive and accessible interfaces | Reliable and scalable architectures |
+| Clean, reusable JavaScript | APIs, databases, caching, and queues |
+| Frontend performance and UX | Distributed systems fundamentals |
+| Modern frameworks and development patterns | Better technical decision-making |
 
-- Building responsive and accessible user interfaces
-- Writing clean, maintainable, and reusable JavaScript
-- Improving frontend performance and user experience
-- Exploring modern frameworks, libraries, and development patterns
-- Creating polished digital experiences from idea to implementation
+## 🧰 Tech Stack
 
-### System Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,webflow,git,vscode,postman,jira" alt="Technology stack icons" />
+</p>
 
-- Learning how reliable and scalable systems are structured
-- Understanding APIs, databases, caching, queues, and distributed systems
-- Improving my approach to architecture and technical decision-making
-- Connecting frontend requirements with scalable backend solutions
-
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-
-## Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-## Currently Learning
+## 📚 Currently Learning
 
 ```text
 JavaScript             ███████████████████░░ 90%
@@ -50,25 +43,52 @@ Frontend Engineering   ██████████████████░
 System Design          ████████████░░░░░░░░░ 60%
 ```
 
-## GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mtoqeeriqbal&show_icons=true&hide_border=true&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=ffffff" alt="Toqeer's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mtoqeeriqbal&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=2563eb&text_color=334155&icon_color=06b6d4&bg_color=ffffff" alt="Toqeer's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtoqeeriqbal&layout=compact&hide_border=true&title_color=2563eb&text_color=334155&bg_color=ffffff" alt="Toqeer's top languages" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtoqeeriqbal&layout=compact&hide_border=true&title_color=3485ef&text_color=343434&bg_color=ffffff" alt="Toqeer's Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mtoqeeriqbal&hide_border=true&ring=2563eb&fire=06b6d4&currStreakLabel=2563eb&sideLabels=334155&dates=64748b&background=ffffff" alt="Toqeer's GitHub contribution streak" />
 
 </div>
 
-## Connect
+## 📈 Contribution Graph
 
-- GitHub: [@mtoqeeriqbal](https://github.com/mtoqeeriqbal)
-- Always learning. Always building. Always improving.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mtoqeeriqbal&bg_color=ffffff&color=334155&line=2563eb&point=06b6d4&area=true&hide_border=true" alt="Toqeer's GitHub activity graph" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/mtoqeeriqbal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:contact@mtoqeeriqbal.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtoqeeriqbal&style=flat-square&color=2563eb" alt="Profile views" />
+  <br /><br />
   <i>Building thoughtful frontend experiences while learning to design systems that scale.</i>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" alt="Footer decoration" />
+</div>
